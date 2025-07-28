@@ -8,7 +8,7 @@ nossos produtos e estabelecimentos, onde o objetivo é:<br></p>
   <li>Crie um cenário, utilizando Cucumber + Ruby + HTTParty, que valide que o JSON retornado pelo serviço possui a chave “typeOfEstablishment” e print, aleatoriamente, um desses tipos de estabelecimentos.</li>
 </ul>
 <h2>Clonar o projeto</h2>
-<p>git clone https://github.com/ArthurJacobsenKlas/backend.git</p>
+<p>git clone https://github.com/ArthurJacobsenKlas/vr-desafio-backend.git</p>
 
 <h2>Abrir o projeto no Visual Studio Code</h2>
 <ul>
